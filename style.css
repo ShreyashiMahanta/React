@@ -1,0 +1,30 @@
+body {
+ background-color : rgb(4, 38, 75);
+}
+.text{
+    color: blanchedalmond;
+    text-align: center;
+    
+}
+.head{
+    text-align: center;
+    color: #26fffb;
+    
+    
+}
+.img{
+    top : 70%;
+    left : 50%;
+    text-align: center; 
+}
+.border{
+    border : solid;
+    border-width: 10px;
+}
+.founder{
+    position: relative;
+}
+
+.companies {
+    text-align: center;
+}
